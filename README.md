@@ -1,5 +1,5 @@
 # rockpaperscissors
-A rock paper scissors static website: (link)
+A rock paper scissors static website: https://zeeblo.github.io/rockpaperscissors/
 
 # Overview
 
